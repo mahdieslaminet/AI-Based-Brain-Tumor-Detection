@@ -3,7 +3,13 @@
 
 لینک سایت مقاله: https://pmc.ncbi.nlm.nih.gov/articles/PMC10453020
 IF: 5.2
-سال انتشار: 2023 
+سال انتشار: 2023
+ترجمه و بررسی تخصصی مقاله تشخیص تومور مغزی با استفاده از یادگیری عمیق و تصاویر MRI (منتشر شده در ژورنال Cancers 2023، با ضریب تاثیر 5.2).
+
+لینک مقاله:https://drive.google.com/file/d/1DSYx64nMmWt8FLhNiAOl8goOfhGbAp17/view?usp=sharing
+
+
+لینک ترجمه :https://drive.google.com/file/d/1DSYx64nMmWt8FLhNiAOl8goOfhGbAp17/view?usp=sharing
 
 لینک مقاله در گیت هاب (لینک گوگل درایو در ریپو موجود است): https://github.com/ashkanhajibandeh/Research-6
 
