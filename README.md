@@ -8,6 +8,7 @@ IF: 5.2
 
 لینک مقاله:https://drive.google.com/file/d/1DSYx64nMmWt8FLhNiAOl8goOfhGbAp17/view?usp=sharing
 
+لینک گزارش پروژه: https://drive.google.com/file/d/1zS-KdXZog18zDHadmf8QgLGc_YQopRsy/view?usp=sharing
 
 لینک ترجمه :https://drive.google.com/file/d/1DSYx64nMmWt8FLhNiAOl8goOfhGbAp17/view?usp=sharing
 
