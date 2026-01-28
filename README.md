@@ -5,9 +5,9 @@
 IF: 5.2
 سال انتشار: 2023 
 
-لینک مقاله در گیت هاب:https://github.com/ashkanhajibandeh/Research-6
+لینک مقاله در گیت هاب (لینک گوگل درایو در ریپو موجود است): https://github.com/ashkanhajibandeh/Research-6
 
-لینک ترجمه مقاله در گیت هاب:[https://github.com/ashkanhajibandeh/Research-6](https://github.com/ashkanhajibandeh/Research-6/blob/main/%D8%AA%D8%B1%D8%AC%D9%85%D9%87%20%D9%85%D9%82%D8%A7%D9%84%D9%87.pdf)
+لینک ترجمه مقاله در گیت هاب (لینک گوگل درایو در ریپو موجود است):[https://github.com/ashkanhajibandeh/Research-6](https://github.com/ashkanhajibandeh/Research-6/blob/main/%D8%AA%D8%B1%D8%AC%D9%85%D9%87%20%D9%85%D9%82%D8%A7%D9%84%D9%87.pdf)
 
 
 لینک دیتاست مقاله: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset 
