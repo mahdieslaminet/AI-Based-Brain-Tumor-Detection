@@ -10,6 +10,8 @@ IF: 5.2
 
 لینک گزارش پروژه: https://drive.google.com/file/d/1zS-KdXZog18zDHadmf8QgLGc_YQopRsy/view?usp=sharing
 
+لینک ویدیو معرفی پروژه: https://drive.google.com/file/d/1gStc0jdjTTLLzIu6tLvZ53tPSkrLUCiH/view?usp=sharing
+
 لینک ترجمه :https://drive.google.com/file/d/1DSYx64nMmWt8FLhNiAOl8goOfhGbAp17/view?usp=sharing
 
 لینک مقاله در گیت هاب (لینک گوگل درایو در ریپو موجود است): https://github.com/ashkanhajibandeh/Research-6
