@@ -13,7 +13,7 @@ IF: 5.2
 لینک دیتاست مقاله: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset 
 #)
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue)![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)![Streamlit](https://img.shields.io/badge/Streamlit-App-red)![Model](https://img.shields.io/badge/Model-MobileNetV2-green)
+![Python](https://img.shields.io/badge/Jupyter-3.9%2B-blue)![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)![Streamlit](https://img.shields.io/badge/Streamlit-App-red)![Model](https://img.shields.io/badge/Model-MobileNetV2-green)
 
 ## 📌 معرفی پروژه
 این پروژه یک وب‌اپلیکیشن هوشمند برای تشخیص و طبقه‌بندی خودکار تومورهای مغزی از روی تصاویر MRI است. سیستم بر پایه **شبکه‌های عصبی کانولوشنی (CNN)** و تکنیک **یادگیری انتقالی (Transfer Learning)** پیاده‌سازی شده است. برخلاف نمونه‌های شبیه‌سازی شده، این پروژه از یک مدل **آموزش‌دیده واقعی (Real Inference)** استفاده می‌کند که قادر است تصاویر جدید را با دقت بالا پردازش و تحلیل کند.
